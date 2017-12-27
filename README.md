@@ -5,6 +5,9 @@ FCGI Process Manager
 
 ## 使用方式
 
+	2017年12月27日更新，默认端口修改为 9000，path 参数（路径）支持空格
+
+
 ```
 Usage: xxfpm path [-n number] [-i ip] [-p port]
 Manage FastCGI processes.
