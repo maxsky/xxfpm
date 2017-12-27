@@ -14,7 +14,7 @@ Manage FastCGI processes.
 
 -n, –number number of processes to keep
 -i, –ip ip address to bind
--p, –port port to bind, default is 8000
+-p, –port port to bind, default is 9000
 -u, –user start processes using specified linux user
 -g, –group start processes using specified linux group
 -r, –root change root direcotry for the processes
